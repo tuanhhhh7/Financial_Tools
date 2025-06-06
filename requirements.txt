@@ -7,3 +7,5 @@ ipympl
 matplotlib-venn
 jupyterlab_widgets
 numpy-financial
+pandas
+pandas-datareader
