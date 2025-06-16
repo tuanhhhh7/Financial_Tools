@@ -33,8 +33,17 @@ convert.py
 main.py
 .gitignore
 
-
-
+lectures/ofin2025_lecture02_ws.ipynb
+lectures/ofin2025_lecture03_ws.ipynb
+lectures/ofin2025_lecture04_ws.ipynb
+lectures/ofin2025_lecture05_ws.ipynb
+lectures/ofin2025_lecture06_ws.ipynb
+lectures/ofin2025_lecture07_ws.ipynb
+lectures/ofin2025_lecture08_ws.ipynb
+lectures/ofin2025_lecture09_ws.ipynb
+lectures/ofin2025_lecture10_ws.ipynb
+lectures/ofin2025_lecture11_ws.ipynb
+lectures/ofin2025_lecture12_ws.ipynb
 
 
 appendix/flowoffunds.ipynb
